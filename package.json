@@ -4,6 +4,7 @@
   "description": "This is a fun little one-pager with modal-ized (is that a word?) \"pages\"\r and a cool depth effect (click on a menu item to see what I mean). Simple, fully\r responsive, and kitted out with all the usual pre-styled elements you'd expect.\r Hope you dig it :)",
   "main": "server.js",
   "dependencies": {
+    "build": "^0.1.4",
     "express": "^4.17.1",
     "package": "^1.0.1"
   },
