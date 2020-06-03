@@ -1,0 +1,25 @@
+{
+  "name": "mgh-portforlio",
+  "version": "1.0.0",
+  "description": "This is a fun little one-pager with modal-ized (is that a word?) \"pages\"\r and a cool depth effect (click on a menu item to see what I mean). Simple, fully\r responsive, and kitted out with all the usual pre-styled elements you'd expect.\r Hope you dig it :)",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monica-Hall/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monica-Hall/portfolio/issues"
+  },
+  "homepage": "https://github.com/Monica-Hall/portfolio#readme"
+}
